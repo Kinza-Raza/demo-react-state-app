@@ -1,0 +1,29 @@
+.room {
+
+    height: 100vh;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    vertical-align: middle;
+    font-size: x-large;
+}
+
+.lit {
+
+    background-color:  wheat;
+    color: black;
+}
+
+.dark {
+
+    background-color: black;
+    color: floralwhite;
+}
+
+.button1 {
+
+    height: 1cm;
+    width: 3cm;
+    color: hotpink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
